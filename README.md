@@ -10,7 +10,7 @@
   </a>
 </div>
 
-Heres a little something about Carl...
+Heres a little something about me...
 
 I am a current student at UC Irvine Cybersecurity Bootcamp with a profound interest in technology and a dedication to solving complex problems and welcome to my GitHub!
 
