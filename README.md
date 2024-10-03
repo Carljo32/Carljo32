@@ -23,7 +23,7 @@ My professional journey to computer science has led me to develop a passion for 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Protect a Web Application         | <a href="https://google.com">Detection Lab</a>|
+| Protect a Web Application - Microsoft Azure         | <a href="https://github.com/Carljo32/Web_app_security">Web App Security</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
