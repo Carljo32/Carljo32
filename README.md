@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Carl!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Carl!;" />
 </h1>
 <div align="center"> 
   <a href="mailto:johnson.carlalexander@gmail.com">
@@ -23,7 +23,7 @@ My professional journey to computer science has led me to develop a passion for 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Protect a Web Application - Microsoft Azure         | <a href="https://github.com/Carljo32/Web_app_security">Web App Security</a>|
+| Protect a Web Application - Microsoft Azure   | <a href="https://github.com/Carljo32/Web_app_security">Web App Security</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -50,7 +50,7 @@ My professional journey to computer science has led me to develop a passion for 
 </div>
 
 ## Certifications
-I am currently studying for my CompTIA Sec+ exam and have my eyes set on potentially tackling the CompTIA A+ & Network +, and CISSP exams.
+I am currently studying for my CompTIA Sec+ exam and have my eyes set on  tackling the CompTIA A+ & Network +, and CISSP exams.
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
