@@ -23,7 +23,7 @@ My professional journey to computer science has led me to develop a passion for 
 |-----------------------------------------------|----------------------------|
 | 
 
-| Projects                                         | Associated Project         |
+| Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Protect a Web Application - Microsoft Azure   | <a href="https://github.com/Carljo32/Web_app_security">Web App Security</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
@@ -33,9 +33,21 @@ My professional journey to computer science has led me to develop a passion for 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## TOOLS
+Heres a brief list of tools and systems I have some experience with: 
+
+### Operating Systems
+<div> 
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_OS-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Android-3DDC84?&style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/-iOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
 
 
-### NETWORK
+</div>
+
+### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     
