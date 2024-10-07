@@ -66,8 +66,16 @@ Heres a brief list of tools and systems I have some experience with:
 ## CERTIFICATIONS
 I am currently studying for my CompTIA Sec+ exam and have my eyes set on  tackling the CompTIA A+ & Network +, and CISSP exams.
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
+
+</div>
+
+## EDUCATIONAL PURSUITS
+<div>
+    <img src="https://img.shields.io/badge/-CSU_Fullerton-0057B8?&style=for-the-badge&logo=California-State-University-Fullerton&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UCI_Boot_Camp-0066A1?&style=for-the-badge&logo=University-of-California-Irvine&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
 
 </div>
 
