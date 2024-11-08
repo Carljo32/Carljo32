@@ -16,7 +16,7 @@ I am a current student at UC Irvine Cybersecurity Bootcamp with a profound inter
 
 ## OBJECTIVE
 
-My professional journey to computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey into computer science has sparked a strong interest in cybersecurity, and I'm excited to take the next step in this field. I'm particularly eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst or in a Help Desk role, where I can continue learning and making an impact.
 
 ## SKILLSET & PROJECTS
 | Skills                                         | Demonstrated by         |
@@ -26,7 +26,7 @@ My professional journey to computer science has led me to develop a passion for 
 | Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Protect a Web Application - Microsoft Azure   | <a href="https://github.com/Carljo32/Web_app_security">Web App Security</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Penetration Testing Summary Reports           | <a href="https://github.com/Carljo32/Pen_testing_Summary)">Pentesting Summary Reports</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
