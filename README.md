@@ -60,6 +60,8 @@ Heres a brief list of tools and systems I have some experience with:
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
 
 </div>
 
