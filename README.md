@@ -23,7 +23,7 @@ My journey into computer science has sparked a strong interest in cybersecurity,
 |-----------------------------------------------|----------------------------|
 | 
 
-| Projects                                      | Associated Project         |
+| Projects                                      | Repository Links         |
 |-----------------------------------------------|----------------------------|
 | Protect a Web Application - Microsoft Azure   | <a href="https://github.com/Carljo32/Web_app_security">Web App Security</a>|
 | Penetration Testing Summary Reports           | <a href="https://github.com/Carljo32/Pen_testing_Summary">Pentesting Summary Reports</a>|
