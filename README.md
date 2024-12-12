@@ -28,9 +28,9 @@ My journey into computer science has sparked a strong interest in cybersecurity,
 | Protect a Web Application - Microsoft Azure   | <a href="https://github.com/Carljo32/Web_app_security">Web App Security</a>|
 | Penetration Testing Summary Reports           | <a href="https://github.com/Carljo32/Pen_testing_Summary">Pentesting Summary Reports</a>|
 | Building a Security Environment - Splunk      | <a href="https://github.com/Carljo32/Splunk_Monitoring_Evn"> Splunk Monitoring Environment</a>|
-| BootCon Project Presentation - Setoolkit      | <a href="https://github.com/Carljo32/"> Project Presentation</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| BootCon Project Presentation - Setoolkit      | <a href="https://github.com/Carljo32/BootCon_Setoolkit_Presentation"> Project Presentation</a>|
+| How to Build a Homelab                  | How to build a homelab |
+|  | |
 
 ## TOOLS
 Heres a brief list of tools and systems I have some experience with: 
@@ -39,7 +39,7 @@ Heres a brief list of tools and systems I have some experience with:
 <div> 
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-mac_OS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows_OS-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Android-3DDC84?&style=for-the-badge&logo=android&logoColor=white" />
     <img src="https://img.shields.io/badge/-iOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
