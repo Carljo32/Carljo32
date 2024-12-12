@@ -27,8 +27,8 @@ My journey into computer science has sparked a strong interest in cybersecurity,
 |-----------------------------------------------|----------------------------|
 | Protect a Web Application - Microsoft Azure   | <a href="https://github.com/Carljo32/Web_app_security">Web App Security</a>|
 | Penetration Testing Summary Reports           | <a href="https://github.com/Carljo32/Pen_testing_Summary">Pentesting Summary Reports</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Building a Security Environment - Splunk      | <a href="https://github.com/Carljo32/"> Splunk Monitoring Environment</a>|
+| BootCon Project Presentation - Setoolkit      | <a href="https://github.com/Carljo32/"> Project Presentation</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -53,9 +53,10 @@ Heres a brief list of tools and systems I have some experience with:
     
 </div>
 
-### Endpoint
+### Forensics
 <div>
-    
+    <img src="https://img.shields.io/badge/-Autopsy-055B8C?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+
 </div>
 
 ### SIEM
