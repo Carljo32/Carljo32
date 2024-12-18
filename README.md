@@ -12,11 +12,12 @@
 
 Heres a little something about me...
 
-I am a current student at UC Irvine Cybersecurity Bootcamp with a profound interest in technology and a dedication to solving complex problems and welcome to my GitHub!
+Welcome to my GitHub!</br>
+As a dedicated cybersecurity enthusiast and recent graduate of the UC Irvine Cybersecurity Bootcamp, I’m passionate about leveraging my technical expertise to solve complex challenges. My hands-on experience with tools like Splunk, Wireshark, and Metasploit, combined with my background in IT support and project management, positions me to thrive in dynamic technical environments. Explore my repositories to see projects that reflect my skills in security analysis, penetration testing, and cloud application security.
 
 ## OBJECTIVE
 
-My journey into computer science has sparked a strong interest in cybersecurity, and I'm excited to take the next step in this field. I'm particularly eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst or in a Help Desk role, where I can continue learning and making an impact.
+With a strong foundation in IT support and a growing skill set in cybersecurity, I am eager to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst or a Help Desk specialist. My goal is to apply my technical knowledge and problem-solving abilities to proactively identify and address security threats while continuously learning and advancing in the cybersecurity field.
 
 ## SKILLSET & PROJECTS
 | Skills                                         | Demonstrated by         |
